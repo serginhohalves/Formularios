@@ -88,6 +88,9 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: auto;
+    box-sizing: border-box;
+    padding:100px;
+    
     
     
 }
